@@ -1,0 +1,15 @@
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\bin\Debug\net6.0\ToBeTossed.exe
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\bin\Debug\net6.0\ToBeTossed.deps.json
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\bin\Debug\net6.0\ToBeTossed.runtimeconfig.json
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\bin\Debug\net6.0\ToBeTossed.dll
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\bin\Debug\net6.0\ToBeTossed.pdb
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.csproj.AssemblyReference.cache
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.AssemblyInfoInputs.cache
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.AssemblyInfo.cs
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.csproj.CoreCompileInputs.cache
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.dll
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\refint\ToBeTossed.dll
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.pdb
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ToBeTossed.genruntimeconfig.cache
+C:\Users\cp0973791\OneDrive - Ozarks Technical Community College\C# Notes\C# Projects\ToBeTossed\ToBeTossed\obj\Debug\net6.0\ref\ToBeTossed.dll
